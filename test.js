@@ -1,15 +1,15 @@
-const hello = () => {
-  console.log("hi1");
+const bye = () => {
+  console.log("bye1");
 }
 
-const hello2 = () => {
-  console.log("hi2");
+const bye2 = () => {
+  console.log("bye2");
 }
 
-const hello3 = () => {
-  console.log("hi3");
+const bye3 = () => {
+  console.log("bye3");
 }
 
-const hello4 = () => {
-  console.log("hi4");
+const bye4 = () => {
+  console.log("bye4");
 }
